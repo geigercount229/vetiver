@@ -1,0 +1,74 @@
+.media{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3%;
+    margin-top: 4%;
+    height: 28px;
+
+}
+.instagram{
+    width: 7%;
+}
+.gmail{
+    width: 9.5%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+    margin-bottom: 30%;
+}
+.logo{
+    width: 100.1vw;
+}
+.photo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.photo1{
+    width: 90%;
+}
+.photo2{
+    width: 90%;
+}
+.photo3{
+    width: 90%;
+}
+.photo4{
+    width: 90%;
+}
+.photo5{
+    width: 90%;
+}
+.photo6{
+    width: 90%;
+}
+.photo7{
+    width: 90%;
+}
+.photo8{
+    width: 90%;
+}
+.photo9{
+    width: 90%;
+}
+.photo10{
+    width: 90%;
+}
+.photo11{
+    width: 90%;
+}
+.photo12{
+    width: 90%;
+}
+.photo13{
+    width: 90%;
+}
+.photo14{
+    width: 90%;
+    padding-bottom: 3.8%;
+}
