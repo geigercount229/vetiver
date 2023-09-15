@@ -1,23 +1,32 @@
 .media{
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 3%;
-    margin-top: 4%;
-    height: 28px;
+    height: 6vh;
+    justify-content: end;
+    align-items: baseline;
+    gap: 5.5vw;
 
 }
+.left-child{
+    max-width: 8vw;
+}
 .instagram{
-    width: 7%;
+    width: 100%;
+}
+.right-child{
+    max-width: 9.3vw;
+    padding-right: 2.9vw;
+    padding-top: 5.1vh;
 }
 .gmail{
-    width: 9.5%;
+    width: 100%;
 }
+
 .container{
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 0%;
-    margin-bottom: 30%;
+    margin-bottom: 23%;
 }
 .logo{
     width: 100vw;
@@ -27,7 +36,7 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 25px;
+    gap: 5vw;
 }
 .photo1{
     width: 90%;
